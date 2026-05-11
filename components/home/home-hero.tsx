@@ -65,11 +65,11 @@ export function HomeHero() {
           alt="Professional HVAC technician inspecting modern heating and cooling equipment in a residential utility space"
           fill
           priority
-          className="object-cover opacity-45"
+          className="object-cover opacity-80"
           sizes="100vw"
         />
         <div
-          className="absolute inset-0 bg-gradient-to-br from-[var(--color-ink)] via-[color-mix(in_srgb,var(--color-primary)_55%,var(--color-ink))] to-[var(--color-ink)]"
+          className="absolute inset-0 bg-black/40"
           aria-hidden
         />
       </div>
