@@ -10,6 +10,8 @@ export function HomeTestimonials() {
     <Section>
       <ScrollReveal className="flex justify-center">
         <TestimonialCard />
+        <TestimonialCard />
+        <TestimonialCard />
       </ScrollReveal>
     </Section>
   );
